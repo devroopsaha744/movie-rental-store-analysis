@@ -61,31 +61,6 @@ Explore the insights gained from this project in detail:
 
 ---
 
-## Repository Actions
-
-[![Clone](https://img.shields.io/badge/Clone-Repository-brightgreen?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel.git)
-[![Pull](https://img.shields.io/badge/Pull-From%20Repository-gold?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/pull)
-[![Push](https://img.shields.io/badge/Push-To%20Repository-brown?style=flat-square&logo=git)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/push)
-[![Issues](https://img.shields.io/badge/Create-Issues-red?style=flat-square&logo=github)](https://github.com/virajbhutada/Movie-Rental-Analytics-SQL-PowerBI-Excel/issues)
-
-
----
-
-## Connect with Me
-
-Let's connect on LinkedIn for further discussions and collaborations:
-
-**[![LinkedIn](https://img.shields.io/badge/LinkedIn-Viraj%20Bhutada-blue?logo=linkedin)](https://www.linkedin.com/in/virajnbhutada24/)**
-
-
----
-
-## Conclusion
-
-The Movie Rental Analytics capstone project endeavors to deliver actionable insights that empower rental store owners to make informed decisions and drive business growth. We invite you to explore the repository, engage in discussions, and join hands in our journey towards data-driven excellence.
-
----
-
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
