@@ -27,6 +27,8 @@ The primary aim of this project is to engineer an exhaustive Power BI dashboard 
 ### Dataset Description
 The Sakila Dataset forms the foundation of our analysis, containing a diverse array of tables capturing various aspects of the rental store landscape, from customer demographics to film inventory specifics. Through thorough exploration, we aim to understand customer preferences, film performance, and operational trends. This understanding will fuel the creation of our Power BI dashboard, offering rental store owners actionable insights to enhance their business operations effectively.
 
+The datasets: https://drive.google.com/drive/folders/1czvXEgYLRe4Rd59lFmcMZUspPyG_y4om?usp=drive_link
+
 ---
 
 ### Visuals/Snapshots
